@@ -11,17 +11,10 @@ The project is divided into two main files:
 
 ### Prerequisites
 
-Ensure you have the following Python packages installed:
-- `torch`
-- `numpy`
-- `spacy`
-- `tqdm`
-- `nltk`
-
 You can install the required packages using pip:
 
 ```bash
-pip install torch numpy spacy tqdm nltk
+pip install -r requirements.txt
 ```
 
 Download the necessary NLTK data:
